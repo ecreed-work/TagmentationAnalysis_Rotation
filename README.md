@@ -1,2 +1,6 @@
 # TagmentationAnalysis_Rotation
-For Ethan's rotation project characterizing the insertion site preferences of novel CASTs.
+This tagmentation analysis pipeline was built to analyze characteristics of insertion site sequences for novel CASt systems. 
+
+## Features
+
+
